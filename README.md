@@ -1,6 +1,8 @@
 # basisdata_tugas4_elghiariel_IK2411035
 Nama: Elghiariel Sima Tonga
+
 Nim : IK2411035
+
 README – Project SQL Perulangan
 
 Deskripsi
